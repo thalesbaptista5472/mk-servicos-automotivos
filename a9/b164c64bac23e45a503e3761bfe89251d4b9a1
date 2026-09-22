@@ -1,0 +1,28 @@
+backend/.env.example
+  h_6e37e613ad8074 6-9
+backend/package.json
+  h_6e37e613ad8074 11-13
+backend/railway.json
+  h_6e37e613ad8074 1-11
+backend/src/index.ts
+  h_6e37e613ad8074 20-23,25
+frontend/.env.example
+  h_6e37e613ad8074 1-4
+frontend/src/services/api.ts
+  h_6e37e613ad8074 13
+frontend/vercel.json
+  h_6e37e613ad8074 1-11
+vercel.json
+  h_6e37e613ad8074 3,5-9,12-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a9b164c64bac23e45a503e3761bfe89251d4b9a1",
+  "prompts": {},
+  "humans": {
+    "h_6e37e613ad8074": {
+      "author": "Thales Baptista da Silva <thales_2506@hotmail.com>"
+    }
+  }
+}
