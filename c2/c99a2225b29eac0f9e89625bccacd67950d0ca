@@ -1,0 +1,32 @@
+backend/.env.example
+  h_6e37e613ad8074 14
+backend/src/config/index.ts
+  h_6e37e613ad8074 18
+backend/src/db/index.ts
+  h_6e37e613ad8074 169
+backend/src/services/emailService.ts
+  h_6e37e613ad8074 125,213
+frontend/src/App.tsx
+  h_6e37e613ad8074 27
+frontend/src/components/AboutUs.tsx
+  h_6e37e613ad8074 84
+frontend/src/components/AdminSettings.tsx
+  h_6e37e613ad8074 11,13
+frontend/src/components/Footer.tsx
+  h_6e37e613ad8074 25
+frontend/src/components/MapContact.tsx
+  h_6e37e613ad8074 25,27
+supabase_schema.sql
+  h_6e37e613ad8074 129,131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c2c99a2225b29eac0f9e89625bccacd67950d0ca",
+  "prompts": {},
+  "humans": {
+    "h_6e37e613ad8074": {
+      "author": "Thales Baptista da Silva <thales_2506@hotmail.com>"
+    }
+  }
+}
