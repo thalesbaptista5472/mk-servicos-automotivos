@@ -1,0 +1,18 @@
+.github/workflows/deploy-backend.yml
+  h_6e37e613ad8074 1-25
+.github/workflows/deploy-frontend.yml
+  h_6e37e613ad8074 1-38
+frontend/src/vite-env.d.ts
+  h_6e37e613ad8074 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "589fbb964b5c4022d82d452f283b5491b676d2b6",
+  "prompts": {},
+  "humans": {
+    "h_6e37e613ad8074": {
+      "author": "Thales Baptista da Silva <thales_2506@hotmail.com>"
+    }
+  }
+}
