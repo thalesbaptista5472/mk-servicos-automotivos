@@ -8,6 +8,10 @@ on:
       - '.github/workflows/deploy-frontend.yml'
   workflow_dispatch:
 
+env:
+  VERCEL_ORG_ID: team_iH7zAoVMRaOus0wuPHhh5tOL
+  VERCEL_PROJECT_ID: prj_uPJ5bQnx5DoAPAaAjlluqC2kNMGR
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
