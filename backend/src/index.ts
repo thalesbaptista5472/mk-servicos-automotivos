@@ -17,8 +17,12 @@ try {
 }
 
 // Middleware
+const allowedOrigins = process.env.ALLOWED_ORIGINS
+  ? process.env.ALLOWED_ORIGINS.split(',')
+  : ['*'];
+
 app.use(cors({
-  origin: '*',
+  origin: allowedOrigins.includes('*') ? '*' : allowedOrigins,
   methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
 }));
