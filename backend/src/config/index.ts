@@ -15,7 +15,7 @@ export const config = {
   workshopEmail: process.env.WORKSHOP_EMAIL || 'mkservicosautomotivos5@gmail.com',
   workshopPhone: process.env.WORKSHOP_PHONE || '(11) 98878-7548',
   workshopWhatsApp: process.env.WORKSHOP_WHATSAPP || '5511988787548',
-  workshopAddress: process.env.WORKSHOP_ADDRESS || 'Rua O, 83 - Vitória Régia, SP',
+  workshopAddress: process.env.WORKSHOP_ADDRESS || 'R. O, 79 - Jardim Vitória Régia (Zona Norte), São Paulo - SP, 02675-031',
   workshopInstagram: process.env.WORKSHOP_INSTAGRAM || '@mk.automotivos',
 
   // Email SMTP config

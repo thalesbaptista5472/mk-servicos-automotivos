@@ -122,7 +122,7 @@ class EmailService {
 
         <div style="padding: 16px; background-color: #0d0d0d; text-align: center; font-size: 12px; color: #6b7280;">
           MK SERVIÇOS AUTOMOTIVOS • Mecânico de Gasolina e Diesel • Socorro 24h<br/>
-          Rua O, 83 - Vitória Régia, SP • WhatsApp: (11) 98878-7548
+          R. O, 79 - Jardim Vitória Régia (Zona Norte), São Paulo - SP, 02675-031 • WhatsApp: (11) 98878-7548
         </div>
       </div>
     `;
@@ -210,7 +210,7 @@ Data/hora da solicitação: ${data.createdAt}
 
         <div style="padding: 16px; background-color: #f3f4f6; text-align: center; font-size: 12px; color: #6b7280; border-top: 1px solid #e5e7eb;">
           <strong>MK Serviços Automotivos</strong> • Mecânico de Gasolina e Diesel • Socorro 24H<br/>
-          Rua O, 83 - Vitória Régia, SP • WhatsApp: (11) 98878-7548
+          R. O, 79 - Jardim Vitória Régia (Zona Norte), São Paulo - SP, 02675-031 • WhatsApp: (11) 98878-7548
         </div>
       </div>
     `;

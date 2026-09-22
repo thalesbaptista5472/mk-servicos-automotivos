@@ -8,9 +8,9 @@ export const AdminSettings: React.FC = () => {
     workshop_phone: '(11) 98878-7548',
     workshop_whatsapp: '5511988787548',
     workshop_email: 'mkservicosautomotivos5@gmail.com',
-    workshop_address: 'Rua O, 83 - Vitória Régia, SP',
+    workshop_address: 'R. O, 79 - Jardim Vitória Régia (Zona Norte), São Paulo - SP, 02675-031',
     workshop_instagram: '@mk.automotivos',
-    workshop_maps_embed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.0471206132333!2d-46.73236372467069!3d-23.530799778819515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef892bf4bfbfb%3A0x2a0fefc2a9ec682b!2sRua%20O%2C%2083%20-%20Vitoria%20Regia%2C%20SP!5e0!3m2!1spt-BR!2sbr!4v1700000000000!5m2!1spt-BR!2sbr',
+    workshop_maps_embed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.8!2d-46.7324!3d-23.5312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef892bf4bfbfb%3A0x2a0fefc2a9ec682b!2sR.%20O%2C%2079%20-%20Jardim%20Vit%C3%B3ria%20R%C3%A9gia%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002675-031!5e0!3m2!1spt-BR!2sbr!4v1700000000000!5m2!1spt-BR!2sbr',
   });
 
   const [loading, setLoading] = useState(true);

@@ -81,7 +81,7 @@ export const AboutUs: React.FC = () => {
             </h2>
 
             <p style={{ fontSize: '16px', color: 'var(--mk-gray-300)', lineHeight: 1.7, marginBottom: '24px' }}>
-              A <strong>MK Serviços Automotivos</strong> nasceu com a missão de oferecer uma experiência mecânica transparente, honesta e de alto padrão tecnológico. Localizada na <strong>Rua O, 83 - Vitória Régia, SP</strong>, nossa oficina combina mecânicos experientes com equipamentos de diagnóstico digital de última geração.
+              A <strong>MK Serviços Automotivos</strong> nasceu com a missão de oferecer uma experiência mecânica transparente, honesta e de alto padrão tecnológico. Localizada na <strong>R. O, 79 - Jardim Vitória Régia (Zona Norte), São Paulo - SP, 02675-031</strong>, nossa oficina combina mecânicos experientes com equipamentos de diagnóstico digital de última geração.
             </p>
 
             <p style={{ fontSize: '15px', color: 'var(--mk-gray-400)', lineHeight: 1.7, marginBottom: '32px' }}>

@@ -22,7 +22,7 @@ export const Footer: React.FC<FooterProps> = ({
   phone = '(11) 98878-7548',
   whatsapp = '5511988787548',
   email = 'mkservicosautomotivos5@gmail.com',
-  address = 'Rua O, 83 - Vitória Régia, SP',
+  address = 'R. O, 79 - Jardim Vitória Régia (Zona Norte), São Paulo - SP, 02675-031',
 }) => {
   return (
     <footer style={{ backgroundColor: '#0A0B0D', borderTop: '1px solid rgba(143, 20, 27, 0.4)', paddingTop: '60px', paddingBottom: '30px' }}>

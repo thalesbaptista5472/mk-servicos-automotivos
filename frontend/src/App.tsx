@@ -24,7 +24,7 @@ export const App: React.FC = () => {
     workshop_phone: '(11) 98878-7548',
     workshop_whatsapp: '5511988787548',
     workshop_email: 'mkservicosautomotivos5@gmail.com',
-    workshop_address: 'Rua O, 83 - Vitória Régia, SP',
+    workshop_address: 'R. O, 79 - Jardim Vitória Régia (Zona Norte), São Paulo - SP, 02675-031',
     workshop_instagram: '@mk.automotivos',
   });
 
