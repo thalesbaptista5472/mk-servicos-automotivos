@@ -1,0 +1,14 @@
+.github/workflows/deploy-frontend.yml
+  h_6e37e613ad8074 11-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "62beb30cee54b25d28fb69ecccddf89c939da5bf",
+  "prompts": {},
+  "humans": {
+    "h_6e37e613ad8074": {
+      "author": "Thales Baptista da Silva <thales_2506@hotmail.com>"
+    }
+  }
+}
